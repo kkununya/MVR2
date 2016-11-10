@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1031680734354",
+    "firebase_url": "https://moviereviewer-34f20.firebaseio.com",
+    "project_id": "moviereviewer-34f20",
+    "storage_bucket": "moviereviewer-34f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031680734354:android:a11a10d9a426b7cd",
+        "android_client_info": {
+          "package_name": "com.example.moviereviewer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031680734354-391rfmhuidce3j714bgh7ma69ikkfai9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviereviewer",
+            "certificate_hash": "8DC6D38DA8598B9F426B73D054D019731254CA3A"
+          }
+        },
+        {
+          "client_id": "1031680734354-m4psbv3jvp4qkkkrk55ia4o4ck39rvg8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviereviewer",
+            "certificate_hash": "A4CB4F5E2FFA088F9EE0D49982DFDFC809132205"
+          }
+        },
+        {
+          "client_id": "1031680734354-8v0cc2so8tvscre55q9k6979qmb3tkgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnFMP-n0Cm_JaY_vY7vwwJVTwgti4cRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031680734354-8v0cc2so8tvscre55q9k6979qmb3tkgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031680734354:android:68d5c3635dbe77a1",
+        "android_client_info": {
+          "package_name": "com.example.mvr2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031680734354-0ghq4atrqfmeocqttodi2jpdtt3s0754.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mvr2",
+            "certificate_hash": "8DC6D38DA8598B9F426B73D054D019731254CA3A"
+          }
+        },
+        {
+          "client_id": "1031680734354-8v0cc2so8tvscre55q9k6979qmb3tkgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsnFMP-n0Cm_JaY_vY7vwwJVTwgti4cRk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031680734354-8v0cc2so8tvscre55q9k6979qmb3tkgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
